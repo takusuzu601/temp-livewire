@@ -1,4 +1,4 @@
-LiveWire Laravel8 Starter ライブワイヤ　ララベル8　雛形　スタートテンプレート
+##LiveWire Laravel8 Starter ライブワイヤ　ララベル8　雛形　スタートテンプレート
 クローンして開発用に使用
 ## About Laravel
 
